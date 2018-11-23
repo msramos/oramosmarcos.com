@@ -1,18 +1,29 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I'm Marcos.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a software engineer from Brazil that loves working with technology.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Education
+
+* Software Engineering degree from University of Brasília.
+* Software Technician degree from Pandiá Calógeras Tech School
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Skills
+
+* **Programming** - `Elixir` / `Python` / `JavaScript` / `Java` / `PHP`
+* **Databases** - `MySQL` / `PostgreSQL` / `Redis` / `ArangoDB`
+* **Frameworks** - `Phoenix` / `Laravel` / `Spring Boot`
+* **DevOps** - `Docker` / `Kubernetes`
+* **Cloud** - `AWS` / `Azure`
+* **Agile** - `Lean Kanban` / `Scrum`
+
+
+## Contact me
+
+[rms.mrcs at gmail.com](mailto:rms.mrcs@gmail.com)
